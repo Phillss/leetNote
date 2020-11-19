@@ -3,6 +3,6 @@
 ### 一
 * java
 * python
-* [我的博客](www.baidu.com,"博客")
+* [我的博客](http://www.baidu.com,"博客")
 ## 代码篇
 ### 二
